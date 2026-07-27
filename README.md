@@ -1,15 +1,15 @@
 ### Olá!! eu sou João Marcos 🖐️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosgatis)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JMGatsDev&show_icons=true&theme=dracula)
+![João GitHub stats](https://vercel.app)
 
 ## Tecnologias que uso no meu dia 
 
 ![Top Langs](https://vercel.app)
 
 <div style="display: inline-block">
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Dart" src="https://shields.io" />
+  <img align="center" alt="Flutter" src="https://shields.io" />
+  <img align="center" alt="Java" src="https://shields.io" />
+  <img align="center" alt="PostgreSql" src="https://shields.io" />
 </div>
