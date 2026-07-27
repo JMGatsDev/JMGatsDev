@@ -1,11 +1,9 @@
 ### Olá!! eu sou João Marcos 🖐️
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 
-![João GitHub stats](https://vercel.app)
+![João GitHub stats](https://githubcard.com)
 
 ## Tecnologias que uso no meu dia 
-
-![Top Langs](https://vercel.app)
 
 <div style="display: inline-block">
   <img align="center" alt="Dart" src="https://shields.io" />
